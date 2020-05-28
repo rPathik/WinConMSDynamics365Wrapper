@@ -1,0 +1,46 @@
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\web.config
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\appsettings.Development.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\appsettings.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.deps.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.runtimeconfig.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.runtimeconfig.dev.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.dll
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.dll
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.pdb
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csprojAssemblyReference.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorAssemblyInfo.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorAssemblyInfo.cs
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.AssemblyInfoInputs.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.AssemblyInfo.cs
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorTargetAssemblyInfo.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csproj.CopyComplete
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.genruntimeconfig.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.pdb
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csproj.CoreCompileInputs.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.dll
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\web.config
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.deps.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.runtimeconfig.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.runtimeconfig.dev.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.dll
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\DynamicsWrapper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.dll
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csprojAssemblyReference.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csproj.CoreCompileInputs.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorAssemblyInfo.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorAssemblyInfo.cs
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.AssemblyInfoInputs.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.AssemblyInfo.cs
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.RazorTargetAssemblyInfo.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.csproj.CopyComplete
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.dll
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\DynamicsWrapper\obj\Debug\netcoreapp2.1\DynamicsWrapper.genruntimeconfig.cache

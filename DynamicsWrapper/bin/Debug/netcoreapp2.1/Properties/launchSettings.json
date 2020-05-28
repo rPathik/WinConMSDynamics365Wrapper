@@ -1,0 +1,38 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:61720",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "DynamicsWrapper": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "clientId": "4a1277dc-8b16-41f3-baa3-197d55426a0e",
+        "clientSecret": "dij1f3z:L4IgJ7yEJDfDejp=BNwbWB*/",
+        "aadInstance": "https://login.microsoftonline.com/",
+        "tenantID": "e8cabb4a-3dc9-4ac6-9efc-b51f402c0d26",
+        "serviceUrl": "https://boundless-dev.crm11.dynamics.com/"
+      },
+      "applicationUrl": "http://localhost:61722"
+    },
+    "Mock Lambda Test Tool": {
+      "commandName": "Executable",
+      "commandLineArgs": "--port 5050",
+      "workingDirectory": ".\\bin\\$(Configuration)\\netcoreapp2.1",
+      "executablePath": "C:\\Users\\%USERNAME%\\.dotnet\\tools\\dotnet-lambda-test-tool-2.1.exe"
+    }
+  }
+}

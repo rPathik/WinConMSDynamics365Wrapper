@@ -1,0 +1,7 @@
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\bin\Debug\netcoreapp3.0\AWS.D365.Helper.deps.json
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\bin\Debug\netcoreapp3.0\AWS.D365.Helper.dll
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\bin\Debug\netcoreapp3.0\AWS.D365.Helper.pdb
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\obj\Debug\netcoreapp3.0\AWS.D365.Helper.AssemblyInfoInputs.cache
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\obj\Debug\netcoreapp3.0\AWS.D365.Helper.AssemblyInfo.cs
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\obj\Debug\netcoreapp3.0\AWS.D365.Helper.dll
+W:\My Documents\AWS2020\WinCon\DynamicsWrapper\AWS.D365.Helper\obj\Debug\netcoreapp3.0\AWS.D365.Helper.pdb
