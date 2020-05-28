@@ -15,3 +15,12 @@ C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj
 C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.AssemblyInfo.cs
 C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.dll
 C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.deps.json
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.dll
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\bin\Debug\netcoreapp2.1\AWS.D365.Helper.pdb
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.csprojAssemblyReference.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.csproj.CoreCompileInputs.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.AssemblyInfoInputs.cache
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.AssemblyInfo.cs
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.dll
+C:\Users\rpathik\Documents\GitHub\WinConMSDynamics365Wrapper\WinConMSDynamics365Wrapper\AWS.D365.Helper\obj\Debug\netcoreapp2.1\AWS.D365.Helper.pdb
